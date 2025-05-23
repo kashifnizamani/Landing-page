@@ -64,3 +64,39 @@ img {
 .text{
     max-width: 150px;
 }
+
+.flex-container3{
+    background-color: #E5E7EB;
+    padding: 20px;
+}
+#quote{
+    padding-left: 250px;
+    padding-right: 250px;
+    padding-top: 30px;
+    padding-bottom: 20px;
+    font-size: 36px;
+    color: #1F2937
+    
+}
+#thor{
+    justify-self: flex-end;
+    padding-right: 150px;
+    font-weight: bolder;
+}
+.flex-container4{
+    background-color: #3882F6;
+    color: white;
+    margin: 20px;
+    margin-left: 200px;
+    margin-right: 200px;
+    border-radius: 20px;
+    padding-top: 10px;
+    padding-left: 10px;
+    align-items: center;
+}
+
+#left{
+     justify-self: flex-end;
+     padding-bottom: 20px;
+     padding-right: 10px;
+}
