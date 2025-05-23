@@ -1,1 +1,1 @@
-# Landing-page
+# A simple Landing page made to Practice CSS Flexbox
