@@ -30,6 +30,7 @@
 .button{
     color: white;
     font-size: 15px;
+    padding: 5px;
     background-color: #3882F6;
     width: 80px;
     border-radius: 7px;
@@ -99,4 +100,14 @@ img {
      justify-self: flex-end;
      padding-bottom: 20px;
      padding-right: 10px;
+}
+
+footer{
+    background-color: #1F2937;
+    color: white;
+    
+}
+footer >div{
+    justify-self: center;
+    padding: 10px;
 }
